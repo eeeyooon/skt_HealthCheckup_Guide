@@ -27,6 +27,21 @@
 <br>
 <br>
 
+#### 🛠 기술 스택
+- Python
+- AWS - EC2
+- Python3 Flask
+
+#### 💻 개발 환경 및 툴
+- windows
+- pycharm
+- vim
+- SKT NUGU developers
+- Slack
+
+<br>
+<br>
+
 --------------------
 <br>
 
