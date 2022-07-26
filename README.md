@@ -43,16 +43,19 @@
 
 ![image](https://user-images.githubusercontent.com/102462534/181048346-fba15b77-4f37-4e3e-8964-f33002da715d.png)
 
+<br>
 
 > 각 기능에 대한 대화 로직 및 응답 설계는 다음과 같습니다.
 <br>
 
-![image](https://user-images.githubusercontent.com/102462534/181048640-fb9921e4-d9a0-42ee-a0a7-676d9a5ca17f.png)
+건강검진 상세 질문  |   사용자의 정보에 따른 건강검진
+:-------------------------:|:-------------------------:
+![image](https://user-images.githubusercontent.com/102462534/181048640-fb9921e4-d9a0-42ee-a0a7-676d9a5ca17f.png) | ![image](https://user-images.githubusercontent.com/102462534/181048707-cafbb9b6-a2e3-43b2-af66-3ab717f94ddf.png)
+
+
+
 
 <br>
-
-![image](https://user-images.githubusercontent.com/102462534/181048707-cafbb9b6-a2e3-43b2-af66-3ab717f94ddf.png)
-
 
 <br>
 <br>
