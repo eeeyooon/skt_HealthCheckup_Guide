@@ -53,7 +53,22 @@ NUGU developers는 SK텔레콤이 보유한 최고 수준의 음성 인식, 음�
 
 
 **Nugu Play Builder**는 NUGU play를 생성하는 개발 도구로 이용자의 발화를 이해하는 User Utterance Model, 이를 기반으로 기능을 수행하는 Action을 조합하여 하나의 완결된 Play를 생성합니다.
+
+![image](https://user-images.githubusercontent.com/102462534/182028700-03a59aff-40d6-4864-9614-9c2a93697746.png)
+
+
+**Backend Proxy** : 외부 서버를 호출하여 대화 관리자에서 정보를 전달하는 서버 
+
+- 외부 서버로부터 정보를 가져와야 하는 경우
+- 사칙 연산, 날짜/시간 계산 등 로직을 통해 정보를 가공해야 하는 경우
+- 시나리오 전체에 필요한 정보를 미리 가져와야 하는 경우
+
+![image](https://user-images.githubusercontent.com/102462534/182028678-539691be-e48c-4f47-a36f-5002e1b6f55e.png)
+
+
 <br>
+<br>
+
 <br>
 
 
