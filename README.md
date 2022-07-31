@@ -34,7 +34,7 @@
 
 #### 💻 개발 환경 및 툴
 - windows
-- pycharm
+- Pycharm
 - vim
 - SKT NUGU developers
 - Slack
