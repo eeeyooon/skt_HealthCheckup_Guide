@@ -48,8 +48,11 @@
 
 NUGU developers는 SK텔레콤이 보유한 최고 수준의 음성 인식, 음성 합성, 자연어 이해 등의 기술력을 기반으로 NUGU 혹은 제휴사의 디바이스와 앱 사용자에게 AI 서비스를 제공할 수 있는 플랫폼입니다. NUGU 플랫폼 기반의 AI 서비스를 편리하게 개발할 수 있도록 다양한 Tool과 개발 문서를 제공합니다.
 
-NUGU play kit는 NUGU 플랫폼에서 동작하는 AI 서비스의 단위인 NUGU play를 만들고 관리 수 있도록 서비스 사업자나 개인 개발자를 위해 제공하는 툴입니다. NUGU play kit는 간단한 코드 정의와 예시 문장 입력만으로 손쉽게 NUGU play를 만들 수 있는 Play Builder와 생성한 NUGU play를 관리, 배포하고 사용 통계를 조회할 수 있는 콘솔로 구성되어 있습니다.
+**NUGU play kit**는 NUGU 플랫폼에서 동작하는 AI 서비스의 단위인 NUGU play를 만들고 관리 수 있도록 서비스 사업자나 개인 개발자를 위해 제공하는 툴입니다. **NUGU play kit**는 간단한 코드 정의와 예시 문장 입력만으로 손쉽게 NUGU play를 만들 수 있는 Play Builder와 생성한 NUGU play를 관리, 배포하고 사용 통계를 조회할 수 있는 콘솔로 구성되어 있습니다. 
+<br>
 
+
+**Nugu Play Builder**는 NUGU play를 생성하는 개발 도구로 이용자의 발화를 이해하는 User Utterance Model, 이를 기반으로 기능을 수행하는 Action을 조합하여 하나의 완결된 Play를 생성합니다.
 <br>
 <br>
 
